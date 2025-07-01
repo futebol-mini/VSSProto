@@ -39,7 +39,7 @@ To add this library as a subtree follow the steps below.
 Add the subtree by doing in the root of your repository:
 
 ```bash
-git subtree add --prefix proto https://github.com/ThundeRatz/vsss_sim_pb_msgs.git main --squash
+git subtree add --prefix proto https://github.com/futebol-mini/vsss_sim_pb_msgs.git main --squash
 ```
 
 ### 👽️ Git Submodules
@@ -52,12 +52,12 @@ Add the submodule by doing in the root of your repository:
 
 * With HTTPS:
 ```bash
-git submodule add --name vsss_sim_pb_msgs https://github.com/ThundeRatz/vsss_sim_pb_msgs.git proto
+git submodule add --name vsss_sim_pb_msgs https://github.com/futebol-mini/VSSSProto.git proto
 ```
 
 * With SSH:
 ```bash
-git submodule add --name vsss_sim_pb_msgs git@github.com:ThundeRatz/vsss_sim_pb_msgs.git proto
+git submodule add --name vsss_sim_pb_msgs git@github.com:futebol-mini/vsss_sim_pb_msgs.git proto
 ```
 
 #### ✅ Initializing an existing submodule
