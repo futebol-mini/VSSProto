@@ -1,4 +1,4 @@
-# VSSS Simulation Protobuf Messages
+# VSS Simulation Protobuf Messages
 
 ## 📜 Index <!-- omit in toc -->
 
