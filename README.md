@@ -14,7 +14,7 @@
 
 ## 🎉 Intro
 
-This repository contains a library with the protobuf messages used in the communication between the teams, [VSSReferee](https://github.com/futebol-mini/VSSReferee) and simulators as [TraveSim](https://github.com/futebol-mini/travesim) and [FIRASim](https://github.com/IEEEVSS/FIRASim).
+This repository contains a library with the protobuf messages used in the communication between the teams, [VSSReferee](https://github.com/futebol-mini/VSSReferee) and simulators as [TraveSim](https://github.com/futebol-mini/travesim) and [FIRASim](https://github.com/futebol-mini/FIRASim).
 
 There is a `CMakeLists.txt` file in the root of this repository to make it easier to generate de header and source files for each `.proto` file.
 
